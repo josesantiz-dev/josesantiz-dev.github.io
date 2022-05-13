@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.06600bd1.chunk.css",
-    "main.js": "/static/js/main.7c0e45ee.chunk.js",
-    "main.js.map": "/static/js/main.7c0e45ee.chunk.js.map",
+    "main.css": "/static/css/main.13ffa34a.chunk.css",
+    "main.js": "/static/js/main.dd4c08fe.chunk.js",
+    "main.js.map": "/static/js/main.dd4c08fe.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4315e32a.js",
     "runtime-main.js.map": "/static/js/runtime-main.4315e32a.js.map",
-    "static/js/2.c0be67a6.chunk.js": "/static/js/2.c0be67a6.chunk.js",
-    "static/js/2.c0be67a6.chunk.js.map": "/static/js/2.c0be67a6.chunk.js.map",
+    "static/js/2.e8a8d22b.chunk.js": "/static/js/2.e8a8d22b.chunk.js",
+    "static/js/2.e8a8d22b.chunk.js.map": "/static/js/2.e8a8d22b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7b66518455cfe75559f00ff19a056a10.js": "/precache-manifest.7b66518455cfe75559f00ff19a056a10.js",
+    "precache-manifest.b934ac44b1b763279703bd5ba74e0574.js": "/precache-manifest.b934ac44b1b763279703bd5ba74e0574.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.06600bd1.chunk.css.map": "/static/css/main.06600bd1.chunk.css.map",
-    "static/js/2.c0be67a6.chunk.js.LICENSE.txt": "/static/js/2.c0be67a6.chunk.js.LICENSE.txt",
+    "static/css/main.13ffa34a.chunk.css.map": "/static/css/main.13ffa34a.chunk.css.map",
+    "static/js/2.e8a8d22b.chunk.js.LICENSE.txt": "/static/js/2.e8a8d22b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/android.svg": "/static/media/android.e5c4ba08.svg",
@@ -39,6 +39,7 @@
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.c24ba791.svg",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.6d325fec.png",
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.c350d799.png",
+    "static/media/img11.svg": "/static/media/img11.051528da.svg",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
     "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
     "static/media/kxsf102-logo.jpeg": "/static/media/kxsf102-logo.d986583c.jpeg",
@@ -62,8 +63,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4315e32a.js",
-    "static/js/2.c0be67a6.chunk.js",
-    "static/css/main.06600bd1.chunk.css",
-    "static/js/main.7c0e45ee.chunk.js"
+    "static/js/2.e8a8d22b.chunk.js",
+    "static/css/main.13ffa34a.chunk.css",
+    "static/js/main.dd4c08fe.chunk.js"
   ]
 }
