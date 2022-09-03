@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48f4b5beecce57a1b52154e2be29abfd",
+    "revision": "110a46f891b37d8b284c5faef764e890",
     "url": "/index.html"
   },
   {
-    "revision": "e5fa9246d5d204ceed9f",
-    "url": "/static/css/main.6f177d54.chunk.css"
+    "revision": "f4a9dcbd692d9b53a03e",
+    "url": "/static/css/main.871ac06d.chunk.css"
   },
   {
-    "revision": "25d3d9362b762fb29c3e",
-    "url": "/static/js/2.e3ec438b.chunk.js"
+    "revision": "525686b05a91d976c56f",
+    "url": "/static/js/2.e1268068.chunk.js"
   },
   {
-    "revision": "eaaf63558baae456918a991a401208d7",
-    "url": "/static/js/2.e3ec438b.chunk.js.LICENSE.txt"
+    "revision": "255dc87c7c39b442a42bd4f05c20f3ab",
+    "url": "/static/js/2.e1268068.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e5fa9246d5d204ceed9f",
-    "url": "/static/js/main.c6741d91.chunk.js"
+    "revision": "f4a9dcbd692d9b53a03e",
+    "url": "/static/js/main.dc690178.chunk.js"
   },
   {
     "revision": "430500548d88b152aedd",
@@ -160,6 +160,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/education.caed892b.svg"
   },
   {
+    "revision": "720aa7e5d941222d07e58f4c40ad58a9",
+    "url": "/static/media/eleccion-empresarial-logo.720aa7e5.png"
+  },
+  {
     "revision": "85d6957f6a0d678d1ac3932e5be4fcb2",
     "url": "/static/media/experience.85d6957f.svg"
   },
@@ -240,6 +244,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/feelingProud.a73310ea.svg"
   },
   {
+    "revision": "3ba85b7f2ae0b5c3635bc394a9d22450",
+    "url": "/static/media/foto.3ba85b7f.jpeg"
+  },
+  {
     "revision": "589bec7d632ecff9672dc4da97897bbd",
     "url": "/static/media/fullstack.589bec7d.svg"
   },
@@ -276,6 +284,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/jsFramework.b05ae5b5.svg"
   },
   {
+    "revision": "d986583cff47c0041a67ab681a5440e0",
+    "url": "/static/media/kxsf102-logo.d986583c.jpeg"
+  },
+  {
     "revision": "4ba886bafb9ff0a5b71b800c47f45d90",
     "url": "/static/media/legato_logo.4ba886ba.png"
   },
@@ -290,6 +302,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fb870661a1a9fdac3ef16b12aac1f850",
     "url": "/static/media/michigan_logo.fb870661.png"
+  },
+  {
+    "revision": "31fbbdc4f38490bfe0f46be9723996f4",
+    "url": "/static/media/miner-monitoring-logo.31fbbdc4.png"
   },
   {
     "revision": "dc75df84304aa6cbb377e7c37039bd41",
